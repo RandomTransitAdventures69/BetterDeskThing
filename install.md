@@ -1,3 +1,5 @@
+# i used assGPT because i cant code shit on my own
+
 # MyDeskThing Installation Instructions
 
 This guide will get MyDeskThing running on your computer.
