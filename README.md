@@ -18,17 +18,7 @@ That's pretty much it.
 
 ## Why?
 
-Because apparently a dashboard displaying some text and album artwork does **not** need to turn your CPU into a space heater.
-
-MyDeskThing is intentionally simple:
-
-* Plain HTML
-* Plain CSS
-* Plain JavaScript
-* Python + FastAPI
-* WebSockets for Spotify updates
-* No giant frontend framework
-* No unnecessary background processes
+idk why but deskthing is laggy as hell 😭
 
 The goal is simple:
 
