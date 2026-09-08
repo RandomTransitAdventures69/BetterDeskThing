@@ -25,4 +25,4 @@ The goal is simple:
 **Make it fast. Make it lightweight. Make it work.**
 
 
-# i aint gonna lie i asked assgpt to write this
+# i aint gonna lie i asked assgpt to write this because the guide would miss A LOT of things
